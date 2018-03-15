@@ -1,4 +1,4 @@
-package dstech;
+package labor;
 //Leggere da tastiera un array di interi
 //leggere da tastiera un array di string
 //le dimensioni possono essere differenti e inserirle da tastiera

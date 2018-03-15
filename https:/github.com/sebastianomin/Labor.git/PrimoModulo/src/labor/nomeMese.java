@@ -1,4 +1,4 @@
-package dstech;
+package labor;
 
 public class nomeMese {
 	public static void main(String[] args) {

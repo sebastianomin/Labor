@@ -1,4 +1,4 @@
-package dstech;
+package labor;
 
 //Scrivere un algoritmo che faccia la somma degli interi da 0 a 30 divisibili per 3: 
 //utilizzando il while

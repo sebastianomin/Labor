@@ -1,4 +1,4 @@
-package dstech;
+package labor;
 
 import java.util.Scanner;
 //data una frase ritorna la parola piu lunga

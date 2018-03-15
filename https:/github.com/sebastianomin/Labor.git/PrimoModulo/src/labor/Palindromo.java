@@ -1,4 +1,4 @@
-package dstech;
+package labor;
 
 import java.util.Scanner;
 /// Ricevo una stringa e restituisco vero o falso se la stinga è palindroma
